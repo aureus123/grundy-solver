@@ -1,0 +1,81 @@
+buenosaires_full.graph:
+
+Vertex - Neighborhood
+
+10    Agronomía
+23    Almagro
+24    Balvanera
+43    Barracas
+ 3    Belgrano
+33    Boedo
+22    Caballito
+14    Chacarita
+ 2    Coghlan
+ 8    Colegiales
+35    Constitución
+31    Flores
+30    Floresta
+44    La Boca
+13    La Paternal
+38    Liniers
+39    Mataderos
+19    Monte Castro
+36    Montserrat
+41    Nueva Pompeya
+ 0    Núñez
+ 9    Palermo
+40    Parque Avellaneda
+32    Parque Chacabuco
+ 6    Parque Chas
+42    Parque Patricios
+26    Puerto Madero
+16    Recoleta
+17    Retiro
+ 1    Saavedra
+34    San Cristóbal
+25    San Nicolás
+37    San Telmo
+29    Vélez Sársfield
+27    Versalles
+15    Villa Crespo
+12    Villa del Parque
+11    Villa Devoto
+21    Villa General Mitre
+45    Villa Lugano
+28    Villa Luro
+ 7    Villa Ortúzar
+ 5    Villa Pueyrredón
+18    Villa Real
+47    Villa Riachuelo
+20    Villa Santa Rita
+46    Villa Soldati
+ 4    Villa Urquiza
+
+
+
+buenosaires_small.graph:
+
+Vertex - District
+
+ 7    Agronomía, La Paternal, Parque Chas, Villa General Mitre, Villa Ortúzar, Villa del Parque, Villa Santa Rita
+12    Almagro, Boedo
+13    Balvanera, Constitución, Montserrat, San Cristóbal, San Nicolás, San Telmo
+18    Barracas, La Boca, Parque Patricios
+ 2    Belgrano
+11    Caballito
+ 8    Chacarita, Colegiales, Villa Crespo
+ 0    Coghlan, Núñez, Saavedra
+10    Flores
+ 9    Floresta, Liniers, Monte Castro, Vélez Sársfield, Versalles, Villa Luro, Villa Real
+15    Mataderos
+17    Nueva Pompeya, Parque Chacabuco
+ 3    Palermo
+16    Parque Avellaneda
+14    Puerto Madero
+ 4    Recoleta
+ 5    Retiro
+ 6    Villa Devoto
+20    Villa Lugano, Villa Riachuelo
+19    Villa Soldati
+ 1    Villa Urquiza, Villa Pueyrredón
+
