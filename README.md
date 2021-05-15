@@ -3,24 +3,24 @@
 This code contains an implementation of a solver that computes a generalized version of the Grundy domination number, plus other tools to generate instances.
 It was partially supported by grants:
 
-  PICT-2016-0410 (ANPCyT)
-  PID ING538 (UNR)
-  443747/2014-8 (CNPq)
-  305264/2016-8 (CNPq)
-  PNE 011200061.01.00/16 (FUNCAP/CNPq)
+- PICT-2016-0410 (ANPCyT)
+- PID ING538 (UNR)
+- 443747/2014-8 (CNPq)
+- 305264/2016-8 (CNPq)
+- PNE 011200061.01.00/16 (FUNCAP/CNPq)
 
 ## Files and folders 🔧
 
-grundy.cpp - Source code of the solver
-gengraph.cpp - Source code of the random graph generator
-genkneser.cpp - Source code of the Kneser graph generator
-genweb.pl - Perl script that generates a Web graph
-Makefile - self-explained ;)
-Set1 - set of random instances (10, 20 and 30 vertices).
-Set2 - set of random instances (100 and 200 vertices).
-Set3 - set of instances from the DIMACS challenge and its complements (ends in "c"), random
+- grundy.cpp: Source code of the solver
+- gengraph.cpp: Source code of the random graph generator
+- genkneser.cpp: Source code of the Kneser graph generator
+- genweb.pl: Perl script that generates a Web graph
+- Makefile: self-explained ;)
+- Set1: set of random instances (10, 20 and 30 vertices).
+- Set2: set of random instances (100 and 200 vertices).
+- Set3: set of instances from the DIMACS challenge and its complements (ends in "c"), random
        graphs (25 and 50 vertices) and two graphs representing the city of Buenos Aires.
-Set4 - set of Kneser graphs of different sizes (up to 800 vertices).
+- Set4: set of Kneser graphs of different sizes (up to 800 vertices).
 
 ## Requirements 📋
 
